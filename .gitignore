@@ -1,0 +1,9 @@
+/target/
+**/target/
+**/*.crate
+*.log
+.vscode/
+run.sh
+public_key.txt
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "holder",
+    "verifier"
+]
+resolver = "3"
